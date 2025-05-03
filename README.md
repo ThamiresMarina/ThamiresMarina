@@ -14,7 +14,7 @@
 
 ## 📚 Cursos atuais:
 🎓 Análise e Desenvolvimento de Sistemas – Descomplica  
-💻 Curso de QA – Itrasys
+💻 Curso de QA – Iterasys
 
 ## 🕹️ Curiosidades:
 - Já cobri a cozinha do restaurante mesmo sem experiência! 🍲  
