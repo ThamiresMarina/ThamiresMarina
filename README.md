@@ -14,6 +14,16 @@
 - 💻 Lógica de programação com Java
 - 🤖 Ferramentas de testes (Gherkin, Postman, TestLink, Appium, Cucumber)
 
+---
+
+<!-- Estatísticas do GitHub -->
+![Thamires GitHub stats](https://github-readme-stats.vercel.app/api?username=ThamiresMarina&show_icons=true&theme=github_dark)
+
+
+<!-- Linguagens mais usadas -->
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiresMarina&layout=compact&langs_count=6&theme=github_dark)
+  
+
 ## 📚 Cursos atuais:
 🎓 Análise e Desenvolvimento de Sistemas – Descomplica  
 💻 Curso de QA – Iterasys
@@ -25,11 +35,6 @@
 ## 🔗 Vamos nos conectar?
 [LinkedIn](https://www.linkedin.com/in/thamiresmarina) | [GitHub](https://github.com/ThamiresMarina)
 
-
-### 📊 Estatísticas do GitHub
-
-![Thamires GitHub stats](https://github-readme-stats.vercel.app/api?username=ThamiresMarina&show_icons=true&theme=default)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiresMarina&layout=compact&langs_count=6&theme=default)
 
 ---
 
