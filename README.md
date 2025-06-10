@@ -1,5 +1,7 @@
 
-# Olá, sou a Thamires! 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&vCenter=true&width=420&lines=Thamires+Santos" alt="Typing SVG" />
+
+
 
 💡 QA em transição de carreira | Estudante de ADS na Descomplica  
 🔍 Apaixonada por testes, automação e desenvolvimento de sistemas  
@@ -17,12 +19,17 @@
 💻 Curso de QA – Iterasys
 
 ## 🕹️ Curiosidades:
-- Já cobri a cozinha do restaurante mesmo sem experiência! 🍲  
 - Amo cozinhar, assistir séries, ir ao cinema e festivais  
 - Estou aprendendo a tocar bateria e violão 🥁🎸
 
 ## 🔗 Vamos nos conectar?
 [LinkedIn](https://www.linkedin.com/in/thamiresmarina) | [GitHub](https://github.com/ThamiresMarina)
+
+
+### 📊 Estatísticas do GitHub
+
+![Thamires GitHub stats](https://github-readme-stats.vercel.app/api?username=ThamiresMarina&show_icons=true&theme=default)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiresMarina&layout=compact&langs_count=6&theme=default)
 
 ---
 
