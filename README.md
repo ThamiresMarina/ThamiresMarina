@@ -3,7 +3,7 @@
 
 
 
-💡 QA em transição de carreira | Estudante de ADS na Descomplica  
+💡 QA voluntária na Lacrei Saúde
 🔍 Apaixonada por testes, automação e desenvolvimento de sistemas  
 🌍 Vivo em Lisboa, Portugal 🇵🇹 | Brasileira 🇧🇷  
 
@@ -25,7 +25,7 @@
   
 
 ## 📚 Cursos atuais:
-🎓 Análise e Desenvolvimento de Sistemas – Descomplica  
+🎓 Programação e desenvolvimento de sistemas
 💻 Curso de QA – Iterasys
 
 ## 🕹️ Curiosidades:
