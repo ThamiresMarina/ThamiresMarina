@@ -1,6 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&size=32&pause=1000&color=FFFFFF&vCenter=true&width=420&lines=Thamires+Santos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&vCenter=true&width=420&lines=Thamires+Santos" alt="Typing SVG" />
 
 QA com experiência em testes manuais, funcionais e validação de APIs.  
 Atuação em automação de testes e análise de qualidade em aplicações web.
@@ -48,9 +47,11 @@ Aprofundamento em:
 
 ## 📊 Estatísticas GitHub
 
-![Thamires GitHub stats](https://github-readme-stats.vercel.app/api?username=ThamiresMarina&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThamiresMarina&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiresMarina&layout=compact&theme=tokyonight)
-![Profile views](https://komarev.com/ghpvc/?username=ThamiresMarina&color=red)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ThamiresMarina&color=red)
 
 ---
 
