@@ -16,12 +16,13 @@
 
 ---
 
-<!-- Estatísticas do GitHub -->
-![Thamires GitHub stats](https://github-readme-stats.vercel.app/api?username=ThamiresMarina&show_icons=true&theme=github_dark)
+## 📊 GitHub Stats
 
+![Thamires GitHub stats](https://github-readme-stats.vercel.app/api?username=ThamiresMarina&show_icons=true&theme=tokyonight)
 
-<!-- Linguagens mais usadas -->
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiresMarina&layout=compact&langs_count=6&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiresMarina&layout=compact&theme=tokyonight)
+
+![Profile views](https://komarev.com/ghpvc/?username=ThamiresMarina&color=red)
   
 
 ## 📚 Cursos atuais:
