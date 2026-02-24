@@ -28,13 +28,11 @@ Trabalho garantindo qualidade ponta a ponta e criando experiências mais seguras
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ThamiresMarina&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-### 🔥 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ThamiresMarina&theme=tokyonight&hide_border=true" />
 </p>
 
-### 👀 Visualizações de Perfil
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ThamiresMarina&color=blueviolet&style=flat-square"/>
